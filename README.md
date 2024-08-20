@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I am Jean Bosco MUGIRANEZA.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I am Jean Bosco Mugiraneza.</h1>
 
 ---
 
@@ -100,6 +100,12 @@
 
 ### 🔥 &nbsp; My Stats :
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mjeanbosco19&show_icons=true&theme=radical" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjeanbosco19&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark" /></a>
+<div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mjeanbosco19&label=Profile%20views&color=006699&style=flat" alt="mjeanbosco19" /> </p>
+</div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjeanbosco19&show_icons=true&locale=en&layout=compact" alt="mjeanbosco19" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mjeanbosco19&show_icons=true&locale=en" alt="mjeanbosco19" /></p>
 
 ---
