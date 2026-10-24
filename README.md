@@ -1,111 +1,47 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I am Jean Bosco Mugiraneza.</h1>
+### Jean Bosco Mugiraneza
+
+**Full-stack software engineer building national digital health systems in Rwanda.**
+
+Software Engineer at the **Rwanda Ministry of Health** (National Health Intelligence Centre, seconded by UNFPA Rwanda), and part-time Lead Engineer at **[ETITE Ltd](https://github.com/etite-ltd)**.
+🏆 [Ministry of Health Best Employee of the Year 2025–2026](https://www.moh.gov.rw/about/overview)
 
 ---
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+#### What I build
 
-> Tools, languages, and other things that I like to work with.
+| Product | What it is |
+|---|---|
+| **[eBanguka](https://ebanguka.moh.gov.rw)** | Rwanda's national emergency medical services system: call intake, ambulance dispatch, crew shifts, patient-care records and national reporting. I created its API and web codebases and wrote ~60% of the code. |
+| **[National Telehealth Platform](https://telehealth.moh.gov.rw)** | Countrywide remote consultations: appointments, teleconsultations, prescriptions and statistics dashboards. |
+| **[ETITE Meet](https://meet.etite.tech)** | A multi-tenant video platform on LiveKit, with recording, live streaming, signed webhooks, and AI captions and summaries with Kinyarwanda support. It powers telemedicine video calls. |
+| **[`@etiteltd/meet-embed`](https://www.npmjs.com/package/@etiteltd/meet-embed)** | A ~2 KB, dependency-free SDK for embedding Meet calls, with typed events and commands. |
+| **[MoH Events](https://events.moh.gov.rw)** | Event management for the Ministry, with QR-coded badges and invitations. |
+| **[ETITE Developer Portal](https://developers.etite.tech)** | Public integration guides plus API references gated by single sign-on. |
 
-<table>
-  <tr>
-  <td align="center" width="96">
-      <a href="#">
-        <img src="./img/react-original.svg" width="48" height="48" alt="React JS" />
-      </a>
-      <br>React JS
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/nodejs.svg" width="48" height="48" alt="Node JS" />
-      </a>
-      <br>Node JS
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/nextjs.svg" width="48" height="48" alt="Next JS" />
-      </a>
-      <br>Next JS
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="/img/tailwindcss.svg" width="48" height="48" alt="Tailwind CSS" />
-      </a>
-      <br>TailwindCSS
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="/img/postgresql.svg" width="48" height="48" alt="PostgreSQL " />
-      </a>
-      <br>PostgreSQL 
-    </td>
-    <td align="center" width="96"> 
-      <a href="#" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="./img/prisma.svg" width="48" height="48" alt="Prisma" />
-      </a>
-      <br>Prisma
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="/img/express.svg" width="48" height="48" alt="Express JS" />
-      </a>
-      <br>ExpressJS
-    </td>
-  </tr>
-</table>
+These systems run nationwide and support hundreds of healthcare providers. Most of my code lives in private organisation repositories, and the contribution graph reflects that work.
 
-### Skills
+#### Stack
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/> 
-</a> 
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-</a>
-  <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  
-</p>
+- **Languages:** TypeScript, JavaScript, Python, SQL, Bash
+- **Back end:** Node.js, NestJS, Express, FastAPI, Prisma, BullMQ, REST/OpenAPI, WebSockets, signed webhooks
+- **Front end:** React, Next.js, Tailwind CSS, TanStack Query, Zod
+- **Data:** PostgreSQL, MariaDB, Redis/Valkey, S3
+- **Real-time & AI:** LiveKit (WebRTC, recording, agents), Matrix, Whisper speech-to-text, LLM integration
+- **Platform:** Docker, Linux, Traefik, GitHub Actions, Keycloak/OIDC, Prometheus/Grafana, OpenObserve
 
-### 🔥 &nbsp; My Stats :
+#### How I work
 
-<div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mjeanbosco19&label=Profile%20views&color=006699&style=flat" alt="mjeanbosco19" /> </p>
-</div>
+- I write down architecture decisions (ADRs) and design contract-first APIs, with CI checks that catch drift.
+- I measure instead of assuming: load tests, restore drills, benchmarks.
+- Every change is a small, reviewed pull request behind test gates. I have authored ~3,000 of them since 2023.
+- I build with AI coding agents (Claude Code), and their output goes through the same tests and review as everything else.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjeanbosco19&show_icons=true&locale=en&layout=compact" alt="mjeanbosco19" /></p>
+#### Recognition
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mjeanbosco19&show_icons=true&locale=en" alt="mjeanbosco19" /></p>
+- **Best Employee of the Year 2025–2026**, Rwanda Ministry of Health
+- **Overall Winner**, Telehealth Digital Tool Development Hackathon (Ministry of Health & RBC with UNFPA and HDI), 2024
+- **Certificate of Merit & Higher Education Scholarship**, Rwanda Ministry of Education, 2019, for *TABARA*, an embedded emergency system linking patients to doctors
 
----
+#### Contact
+
+[LinkedIn](https://www.linkedin.com/in/mjeanbosco19)
