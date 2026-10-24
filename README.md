@@ -11,9 +11,9 @@ Software Engineer at the **Rwanda Ministry of Health** (National Health Intellig
 
 | Product | What it is |
 |---|---|
-| **[eBanguka](https://ebanguka.moh.gov.rw)** | Rwanda's national emergency medical services system: call intake, ambulance dispatch, crew shifts, patient-care records and national reporting. I created its API and web codebases and wrote ~60% of the code. |
+| **[eBanguka](https://ebanguka.moh.gov.rw)** | Rwanda's national emergency medical services system: call intake, ambulance dispatch, crew shifts, patient-care records and national reporting. |
 | **[National Telehealth Platform](https://telehealth.moh.gov.rw)** | Countrywide remote consultations: appointments, teleconsultations, prescriptions and statistics dashboards. |
-| **[ETITE Meet](https://meet.etite.tech)** | A multi-tenant video platform on LiveKit, with recording, live streaming, signed webhooks, and AI captions and summaries with Kinyarwanda support. It powers telemedicine video calls. |
+| **[ETITE Meet](https://meet.etite.tech)** | A multi-tenant video platform on LiveKit, with recording, live streaming, signed webhooks and an embeddable SDK. |
 | **[`@etiteltd/meet-embed`](https://www.npmjs.com/package/@etiteltd/meet-embed)** | A ~2 KB, dependency-free SDK for embedding Meet calls, with typed events and commands. |
 | **[MoH Events](https://events.moh.gov.rw)** | Event management for the Ministry, with QR-coded badges and invitations. |
 | **[ETITE Developer Portal](https://developers.etite.tech)** | Public integration guides plus API references gated by single sign-on. |
