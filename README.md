@@ -17,6 +17,7 @@ Software Engineer at the **Rwanda Ministry of Health** (National Health Intellig
 | **[`@etiteltd/meet-embed`](https://www.npmjs.com/package/@etiteltd/meet-embed)** | A ~2 KB, dependency-free SDK for embedding Meet calls, with typed events and commands. |
 | **[MoH Events](https://events.moh.gov.rw)** | Event management for the Ministry, with QR-coded badges and invitations. |
 | **[ETITE Developer Portal](https://developers.etite.tech)** | Public integration guides plus API references gated by single sign-on. |
+| **[meet-embed-quickstart](https://github.com/mjeanbosco19/meet-embed-quickstart)** | Public reference integration: embed a Meet call with a tiny backend that keeps the API key server-side. Tested, with CI. |
 
 These systems run nationwide and support hundreds of healthcare providers. Most of my code lives in private organisation repositories, and the contribution graph reflects that work.
 
@@ -44,4 +45,4 @@ These systems run nationwide and support hundreds of healthcare providers. Most 
 
 #### Contact
 
-[LinkedIn](https://www.linkedin.com/in/mjeanbosco19)
+[jeanbosco.tech](https://jeanbosco.tech) · [LinkedIn](https://www.linkedin.com/in/mjeanbosco19)
