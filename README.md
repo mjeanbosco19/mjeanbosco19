@@ -2,7 +2,7 @@
 
 **Full-stack software engineer building national digital health systems in Rwanda.**
 
-Software Engineer at the **Rwanda Ministry of Health** (National Health Intelligence Centre, seconded by UNFPA Rwanda), and part-time Lead Engineer at **[ETITE Ltd](https://github.com/etite-ltd)**.
+Software Engineer at the **Rwanda Ministry of Health** (National Health Intelligence Centre, seconded by UNFPA Rwanda). Before that, Lead Engineer at **[ETITE Ltd](https://github.com/etite-ltd)** from 2020 to 2025.
 🏆 [Ministry of Health Best Employee of the Year 2025–2026](https://www.moh.gov.rw/about/overview)
 
 ---
